@@ -1,0 +1,23 @@
+(943, 15)
+(15, 15)
+99    Fargo (1996)
+Name: movie title, dtype: object
+0    Toy Story (1995)
+Name: movie title, dtype: object
+11    Usual Suspects, The (1995)
+Name: movie title, dtype: object
+55    Pulp Fiction (1994)
+Name: movie title, dtype: object
+68    Forrest Gump (1994)
+Name: movie title, dtype: object
+69    Four Weddings and a Funeral (1994)
+Name: movie title, dtype: object
+78    Fugitive, The (1993)
+Name: movie title, dtype: object
+95    Terminator 2: Judgment Day (1991)
+Name: movie title, dtype: object
+96    Dances with Wolves (1990)
+Name: movie title, dtype: object
+97    Silence of the Lambs, The (1991)
+Name: movie title, dtype: object
+User-based CF MSE: 3.73602177165

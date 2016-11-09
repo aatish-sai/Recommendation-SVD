@@ -1,0 +1,23 @@
+(943, 20)
+(20, 20)
+49    Star Wars (1977)
+Name: movie title, dtype: object
+55    Pulp Fiction (1994)
+Name: movie title, dtype: object
+21    Braveheart (1995)
+Name: movie title, dtype: object
+78    Fugitive, The (1993)
+Name: movie title, dtype: object
+97    Silence of the Lambs, The (1991)
+Name: movie title, dtype: object
+99    Fargo (1996)
+Name: movie title, dtype: object
+167    Monty Python and the Holy Grail (1974)
+Name: movie title, dtype: object
+171    Empire Strikes Back, The (1980)
+Name: movie title, dtype: object
+173    Raiders of the Lost Ark (1981)
+Name: movie title, dtype: object
+203    Back to the Future (1985)
+Name: movie title, dtype: object
+User-based CF MSE: 2.72807601669

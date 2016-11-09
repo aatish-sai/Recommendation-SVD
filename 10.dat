@@ -1,0 +1,23 @@
+(943, 10)
+(10, 10)
+0    Toy Story (1995)
+Name: movie title, dtype: object
+1    GoldenEye (1995)
+Name: movie title, dtype: object
+2    Four Rooms (1995)
+Name: movie title, dtype: object
+3    Get Shorty (1995)
+Name: movie title, dtype: object
+4    Copycat (1995)
+Name: movie title, dtype: object
+5    Shanghai Triad (Yao a yao yao dao waipo qiao) ...
+Name: movie title, dtype: object
+6    Twelve Monkeys (1995)
+Name: movie title, dtype: object
+7    Babe (1995)
+Name: movie title, dtype: object
+8    Dead Man Walking (1995)
+Name: movie title, dtype: object
+9    Richard III (1995)
+Name: movie title, dtype: object
+User-based CF MSE: 3.76969622665

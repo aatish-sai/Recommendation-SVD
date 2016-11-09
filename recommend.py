@@ -39,6 +39,19 @@ u, s, vt = svds(train_data_matrix,k = 20)
 
 s_diag_matrix = np.diag(s)
 
+i = 15
+
+u = u[:,:i]
+
+print u.shape
+
+s_diag_matrix = s_diag_matrix[:i,:i]
+
+print s_diag_matrix.shape
+
+vt = vt[:i,:]
+
+
 X_pred = np.dot(np.dot(u, s_diag_matrix),vt)
 
 test_user = 64

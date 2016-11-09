@@ -1,0 +1,23 @@
+(943, 20)
+(20, 20)
+88    Blade Runner (1982)
+Name: movie title, dtype: object
+99    Fargo (1996)
+Name: movie title, dtype: object
+173    Raiders of the Lost Ark (1981)
+Name: movie title, dtype: object
+175    Aliens (1986)
+Name: movie title, dtype: object
+6    Twelve Monkeys (1995)
+Name: movie title, dtype: object
+78    Fugitive, The (1993)
+Name: movie title, dtype: object
+95    Terminator 2: Judgment Day (1991)
+Name: movie title, dtype: object
+143    Die Hard (1988)
+Name: movie title, dtype: object
+152    Fish Called Wanda, A (1988)
+Name: movie title, dtype: object
+182    Alien (1979)
+Name: movie title, dtype: object
+User-based CF MSE: 2.7147157177
